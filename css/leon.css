@@ -200,7 +200,7 @@ body {
 /* end header */
 /* start landing section */
 .landing {
-    background-image: url(main/images/fall_in_rain-wallpaper-1600x900.jpg);
+    background-image: url(/main/images/fall_in_rain-wallpaper-1600x900.jpg);
     background-size: cover;
     /* filter: blur(5%);
     filter: brightness(50%); */
